@@ -1,0 +1,20 @@
+body {
+    background:  #ffcc66;
+}
+
+section {
+    box-shadow: 4px 4px 12px;
+    border-radius: 16px;
+    width: 500px;
+    margin: auto;
+    padding: 18px;
+    background: white;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
